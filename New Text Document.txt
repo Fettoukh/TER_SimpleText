@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=tKHa6FpWnjQ
+https://lucene.apache.org/core/6_2_1/benchmark/org/apache/lucene/benchmark/quality/QualityStats.html
+Precision dans les 10 premiers, dans les 100 premiers etc
+Recall / rappel
+
+https://en.wikipedia.org/wiki/Rank_correlation
+
+
+
+https://towardsdatascience.com/rbo-v-s-kendall-tau-to-compare-ranked-lists-of-items-8776c5182899%60
+https://towardsdatascience.com/rbo-v-s-kendall-tau-to-compare-ranked-lists-of-items-8776c5182899
+
+
+https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html
+
+https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python/
+
+https://aclanthology.org/P19-1109/
+
+https://sites.google.com/view/cwisharedtask2018/
